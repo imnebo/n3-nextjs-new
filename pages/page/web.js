@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'next/link'
 import { Container, Row, Col } from 'reactstrap'
-const Demo = () => (
+const CasesWeb = () => (
     <section className="app-preview-section" id="pages">
         <Container fluid={true}>
             <div className="position-relative o-hidden">
@@ -171,4 +171,4 @@ const Demo = () => (
     </section>
 )
 
-export default Demo;
+export default CasesWeb;

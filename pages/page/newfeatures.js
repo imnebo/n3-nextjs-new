@@ -14,7 +14,7 @@ const NewFeatures = () => (
                   <div className="dpr-ilinks-content-wrapper">
                     <div className="dpr-ilinks-content-inner">
                       <div className="dpr-ilinks-item-content">
-                        <div className="dpr-ilinks-item-link-wrapper"><a itemProp="url" className="dpr-ilinks-item-link" data-index={0} href="/pages/casesweb">
+                        <div className="dpr-ilinks-item-link-wrapper"><a itemProp="url" className="dpr-ilinks-item-link" data-index={0} href="/casesweb">
                             <h1 className="dpr-ilinks-item-title">САЙТЫ</h1>
                             <h5 className="dpr-ilinks-item-subtitle">Разработка любых сайтов</h5>
                           </a></div>

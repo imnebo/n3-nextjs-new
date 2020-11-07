@@ -2,7 +2,7 @@ import React, { Fragment, useEffect } from 'react'
 import '../public/assets/scss/style.scss'
 import '../public/assets/scss/landing.scss'
 import Head from 'next/head'
-import DemoSection from './page/web'
+import CasesWeb from './page/web'
 
 const Home = () => {
 
@@ -20,7 +20,7 @@ const Home = () => {
         <title>Кейсы: сайты | Константин Невский - разработка сайтов, настройка и внедрение Битрикс24</title>
       </Head>
 
-      <DemoSection />
+      <CasesWeb />
 
       </div>
     </Fragment>
